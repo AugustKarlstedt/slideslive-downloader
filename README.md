@@ -5,23 +5,16 @@ download slideslive presentations (video + slides) + 🎉👍🙌👌✨👏**SY
 I wanted to download ICLR 2020 videos, so I hacked this together. It should work for any presentation hosted on slideslive.com
 
 ## how to use
-I have some hardcoded values, change them as appropriate
-
-I also download the main video directly from the webpage in browser by just finding the mp4 file in source.
-
-and I use packages like progressbar2, opencv, and idk maybe some other stuff. Look at the source and install those packages.
-
+- I have some hardcoded values, change them as appropriate
+- I also download the main video directly from the webpage in browser by just finding the mp4 file in source.
+- and I use packages like progressbar2, opencv, and idk maybe some other stuff. Look at the source and install those packages.
 
 e.g. Beyond “tabula rasa” in reinforcement learning: agents that remember, adapt, and generalize 
-
 https://slideslive.com/38926829/beyond-tabula-rasa-in-reinforcement-learning-agents-that-remember-adapt-and-generalize
-
 
 slide URL: https://d2ygwrecguqg66.cloudfront.net/data/presentations/38926829/slides/big/0-0001.jpg
 
-
 slide XML: https://d2ygwrecguqg66.cloudfront.net/data/presentations/38926829/38926829.xml
-
 (contains sync times for slides)
 
 
