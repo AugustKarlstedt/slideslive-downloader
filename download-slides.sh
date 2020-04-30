@@ -1,0 +1,1 @@
+parallel -j 16 wget -P slides/ < slide-urls.txt
