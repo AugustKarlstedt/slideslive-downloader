@@ -25,6 +25,7 @@ slide XML: https://d2ygwrecguqg66.cloudfront.net/data/presentations/38926829/389
 5. run `GO.sh`
 6. modify `create-slide-video.py` with correct XML file 
 7. run `python3 create-slide-video.py` to turn the slide images into a video that is synced with the main mp4
+8. now you can use something like DaVinci Resolve video editor to place the videos side-by-side and render it out
 
 done!
 
