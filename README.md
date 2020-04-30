@@ -7,6 +7,7 @@ I wanted to download ICLR 2020 videos, so I hacked this together. It should work
 ## how to use
 I have some hardcoded values, change them as appropriate
 I also download the main video directly from the webpage in browser by just finding the mp4 file in source.
+and I use packages like progressbar2, opencv, and idk maybe some other stuff. Look at the source and install those packages.
 
 e.g. 
 Beyond “tabula rasa” in reinforcement learning: agents that remember, adapt, and generalize 
